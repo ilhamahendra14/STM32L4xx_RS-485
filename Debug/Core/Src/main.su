@@ -1,0 +1,12 @@
+../Drivers/CMSIS/Include/core_cm4.h:2059:26:ITM_SendChar	16	static,ignoring_inline_asm
+../Core/Src/main.c:68:5:_write	32	static
+../Core/Src/main.c:75:6:Req_data_Modbbus	16	static
+../Core/Src/main.c:81:6:HAL_UARTEx_RxEventCallback	88	static
+../Core/Src/main.c:92:6:modbus	168	static
+../Core/Src/main.c:119:5:main	24	static
+../Core/Src/main.c:177:6:SystemClock_Config	96	static
+../Core/Src/main.c:233:13:MX_RNG_Init	8	static
+../Core/Src/main.c:259:13:MX_RTC_Init	32	static
+../Core/Src/main.c:323:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:358:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:397:6:Error_Handler	4	static,ignoring_inline_asm
