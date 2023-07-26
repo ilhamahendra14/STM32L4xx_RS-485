@@ -1,7 +1,7 @@
 # STM32L4xx_RS-485
 
 ## Hardware
-![alt text](https://github.com/ilhamahendra14/STM32L4xx_RS-485/blob/106a748552bcd0f5e74845a2eb5825abb7b28c9f/MAX3485_schematic.png?raw=true)
+![alt text](https://github.com/ilhamahendra14/STM32L4xx_RS-485/blob/cf5098e12e58c8d958bcb85e11ea980669bab98e/Images/MAX3485_schematic.png?raw=true)
 + I used MAX3485 to read sensor data with RS-485 interface.
 + RE & DE pins (MAX3485) connected with PB1 pin (STM32)
 
